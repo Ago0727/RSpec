@@ -1,0 +1,23 @@
+example_id                           | status | run_time        |
+------------------------------------ | ------ | --------------- |
+./spec/addtion_spec.rb[1:1:1]        | passed | 0.00005 seconds |
+./spec/addtion_spec.rb[1:1:2]        | passed | 0.00007 seconds |
+./spec/addtion_spec.rb[1:2:1]        | passed | 0.00064 seconds |
+./spec/change_from_spec.rb[1:1:1]    | passed | 0.00005 seconds |
+./spec/change_from_spec.rb[1:1:2]    | passed | 0.00006 seconds |
+./spec/change_from_spec.rb[1:1:3]    | passed | 0.00014 seconds |
+./spec/change_from_spec.rb[1:1:4]    | passed | 0.00205 seconds |
+./spec/change_from_spec.rb[1:1:5]    | passed | 0.00014 seconds |
+./spec/change_from_spec.rb[1:2:1]    | passed | 0.00189 seconds |
+./spec/hello_spec.rb[1:1]            | passed | 0.00011 seconds |
+./spec/matcher_spec.rb[1:1:1]        | passed | 0.00005 seconds |
+./spec/matcher_spec.rb[1:1:2]        | passed | 0.00006 seconds |
+./spec/matcher_spec.rb[1:2:1]        | passed | 0.00148 seconds |
+./spec/matcher_spec.rb[1:2:2]        | passed | 0.00006 seconds |
+./spec/matcher_spec.rb[1:2:3]        | passed | 0.00008 seconds |
+./spec/user_alias_spec.rb[1:1:1:1:1] | passed | 0.00019 seconds |
+./spec/user_alias_spec.rb[1:1:2:1:1] | passed | 0.00015 seconds |
+./spec/user_alias_spec.rb[1:1:3:1:1] | passed | 0.00024 seconds |
+./spec/user_alias_spec.rb[1:1:4:1:1] | passed | 0.00015 seconds |
+./spec/user_spec.rb[1:1:1:1]         | passed | 0.00021 seconds |
+./spec/user_spec.rb[1:1:2:1]         | passed | 0.00009 seconds |
